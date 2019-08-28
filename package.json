@@ -1,0 +1,14 @@
+{
+	"name": "nodejs-image-demo",
+	"version": "1.0.0",
+	"description": "nodejs image demo",
+	"author": "Valmir Correa da Silva Junior",
+	"main": "app.js",
+	"dependencies": {
+		"express": "^4.16.4",
+		"redis": "^2.8.0"
+	},
+	"scripts": {
+		"start": "node app.js"
+	}
+}
